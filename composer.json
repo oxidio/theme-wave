@@ -1,5 +1,8 @@
 {
-    "name": "oxid-esales/wave-theme",
+    "name": "oxidio/theme-wave",
+    "replace": {
+        "oxid-esales/wave-theme": "self.version"
+    },
     "description": "This is Wave Theme for OXID eShop.",
     "type": "oxideshop-theme",
     "keywords": [
